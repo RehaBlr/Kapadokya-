@@ -17,6 +17,7 @@ body {
   background-color: #5ed3eb;
   padding: 15px 25px;
   border-radius: 5px;
+  text-decoration: none;
 }
 .--bg_orange {
   background-color: #ff764e;
@@ -91,7 +92,7 @@ footer nav {
 }
 footer img {
   width: 100%;
-  height: 250px;
+  height: 150px;
   object-fit: cover;
   object-position: center top;
 }
